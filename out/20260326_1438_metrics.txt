@@ -1,0 +1,10 @@
+timestamp: 20260326_1438
+best_params: {'clf__C': 10.0, 'tfidf__max_features': None, 'tfidf__ngram_range': (1, 2)}
+best_cv_accuracy: 0.9422
+mean_cv_accuracy: 0.9422
+std_cv_accuracy: 0.0133
+cv_scores_per_fold: [0.9388560157790927, 0.9506903353057199, 0.9181459566074951, 0.9565646594274433, 0.9466929911154985]
+test_data: data/TOP_SECRET_fake_real_news_test_data.csv
+test_accuracy: 0.9511
+roc_auc: 0.9872
+avg_precision: 0.9862
